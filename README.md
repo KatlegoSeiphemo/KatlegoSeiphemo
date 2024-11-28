@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 **Portfolio**  
-Explore my work: [Open My Portfolio](https://katlegoseiphemo.github.io/My-Portofolio/)  
+Explore my work: [Open My Portfolio](https://katlegoseiphemo.github.io/My-Portfolio/)  
 
 ---
 
