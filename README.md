@@ -5,15 +5,38 @@
 
 ---
 
-## 🔧 **Skills**  
-- **Frontend Development**: HTML, CSS, JavaScript  
-- **Backend Proficiency**: Python, API Integration  
-- **Version Control**: Git, GitHub  
-- **Development Environment**: VSCode  
-- **Hosting**: Experience in deploying websites and applications  
-- **Customer Success**: Technical Support, Customer Support  
+## 🚀 Tech Stack & Skills
+
+### 🖥 Front-End
+- HTML5, CSS3, JavaScript (ES6+)
+- **React**, **TypeScript**
+- Responsive Design & Cross-browser Compatibility
+
+### 🔙 Back-End
+- **Python** (Flask, Django)
+- **Java** (Spring Boot)
+- RESTful API Development & Integration
+
+### 🧰 Tools & Frameworks
+- Git & GitHub
+- Node.js, NPM/Yarn
+- Webpack, Babel
+- Postman, Swagger
+
+### 🗄 Databases & Cloud
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB)
+- Deployments on Heroku, Vercel, AWS (basic)
 
 ---
+
+## 🌱 Currently Exploring
+- Advanced back-end architecture & microservices
+- Cloud-native apps and serverless functions
+- DevOps practices: Docker, Kubernetes, CI/CD
+
+---
+
 
 ## 🏆 **Certifications**  
 ### 📜 **SheCodes Coding Workshops**  
