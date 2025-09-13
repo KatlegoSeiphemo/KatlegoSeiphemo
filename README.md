@@ -43,6 +43,16 @@
 1. ![SheCodes Basics Certificate](https://s3.amazonaws.com/shecodesio-production/students/certificates/000/225/873/original/225873.png?1731967397)  
 2. ![SheCodes Advanced Certificate](https://s3.amazonaws.com/shecodesio-production/students/certificates/000/213/027/original/213027.png?1729619619)  
 
+
+### 📜 **Coursera Certificate**  
+1. ![Google Data Analytics Professional Certificate](1.png)  
+2. ![Microsoft Certificate](2.png)  
+3. ![Ethics, Technology and Engineering Certificate](3.png)
+4. ![Emotional and Social Intelligence Certificate](4.png)
+5. ![Agile Development and Scrum Certificate](5.png)
+6. ![Technical Support Fundamental Certificate](6.png)
+7. ![Professional Productivity Certificate](7.png)
+
 ---
 
 ## 🌐 **Portfolio**  
