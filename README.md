@@ -48,7 +48,7 @@
 
 
 ### 📜 **Coursera Certificate**  
-1. ![Google Data Analytics Professional Certificate](1.png)  
+1. ![Google Data Analytics Professional Certificate](https://raw.githubusercontent.com/katlegoseiphemo/1.png)  
 2. ![Microsoft Certificate](2.png)  
 3. ![Ethics, Technology and Engineering Certificate](3.png)
 4. ![Emotional and Social Intelligence Certificate](4.png)
