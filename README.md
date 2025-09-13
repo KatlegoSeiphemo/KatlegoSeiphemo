@@ -55,8 +55,15 @@
 6. ![Technical Support Fundamental Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/6.png)  
 7. ![Professional Productivity Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/7.png)   
 
+
 ---
 
+### 📜 **TryHackme Certificates**  
+1. ![TryHackme - Cyber Security Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/certificate10.jpg)  
+2. ![TryHackme - Per Security Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/certificate11.jpg)  
+
+
+---
 ## 🌐 **Portfolio**  
 Explore my work: [Open My Portfolio](https://katlegoseiphemo.github.io/My-Portfolio/)  
 
