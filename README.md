@@ -44,6 +44,9 @@
 2. ![SheCodes Advanced Certificate](https://s3.amazonaws.com/shecodesio-production/students/certificates/000/213/027/original/213027.png?1729619619)  
 
 
+---
+
+
 ### 📜 **Coursera Certificate**  
 1. ![Google Data Analytics Professional Certificate](1.png)  
 2. ![Microsoft Certificate](2.png)  
