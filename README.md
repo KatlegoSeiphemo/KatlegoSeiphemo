@@ -46,15 +46,14 @@
 
 ---
 
-
-### 📜 **Coursera Certificate**  
-1. ![Google Data Analytics Professional Certificate](https://raw.githubusercontent.com/katlegoseiphemo/1.png)  
-2. ![Microsoft Certificate](2.png)  
-3. ![Ethics, Technology and Engineering Certificate](3.png)
-4. ![Emotional and Social Intelligence Certificate](4.png)
-5. ![Agile Development and Scrum Certificate](5.png)
-6. ![Technical Support Fundamental Certificate](6.png)
-7. ![Professional Productivity Certificate](7.png)
+### 📜 **Coursera Certificates**  
+1. ![Google Data Analytics Professional Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/1.png)  
+2. ![Microsoft Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/2.png)  
+3. ![Ethics, Technology and Engineering Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/3.png)  
+4. ![Emotional and Social Intelligence Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/4.png)  
+5. ![Agile Development and Scrum Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/5.png)  
+6. ![Technical Support Fundamental Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/6.png)  
+7. ![Professional Productivity Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/7.png)   
 
 ---
 
