@@ -1,7 +1,7 @@
 # Katlego Seiphemo 🇿🇦  
 ### Full-Stack Developer | AI Engineering Student | Technical Support Specialist  
 
-👋 Hi there! I'm Katlego, a detail-oriented and motivated software developer based in **Johannesburg, South Africa**. I have a strong foundation in **software development, data analytics, and cybersecurity**, combined with hands-on experience in customer service, retention, and technical support.
+👋 Hi there! I'm Katlego, a detail-oriented and motivated software developer based in **Johannesburg, South Africa**. I built a strong foundation in **software development, data analytics, and cybersecurity**, combined with hands-on experience in customer service, retention, and technical support in the past.
 
 I’m passionate about building **secure, scalable, and user-focused applications**, and I’m currently seeking an **entry-level role or internship** where I can grow while contributing to impactful, real-world solutions.
 
@@ -16,6 +16,7 @@ I’m passionate about building **secure, scalable, and user-focused application
 
 ### 🔙 Back-End
 - **Python** (Flask, Django)
+- **C#** 
 - **Java** (Spring Boot – foundational)
 - RESTful API Development & Integration
 
@@ -69,9 +70,15 @@ I’m passionate about building **secure, scalable, and user-focused application
 ### **WeThinkCode_ (Parktown)** — *Diploma in Software Engineering*  
 **February 2025 – May 2026**
 - Project-driven software engineering programme  
-- Full-stack development, API integration, and responsive application design  
+- Full-stack development, API integration, and responsive application design
+
+### **UMUZI (Remote)** — *Bootcamp in Software Engineering* 
+**September 2023 – December 2023**
+- Building end-to-end AI-driven applications
+- Learning JavaScript, Node,js, Python, SQL, and UX/UI design 
 
 ### **Westridge High School (Roodepoort)** — *National Senior Certificate*  
+- Completed my matric in 2018
 
 ---
 
